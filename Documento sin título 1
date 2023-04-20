@@ -1,0 +1,211 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos3.css">
+    <title>Harry Potter</title>
+</head>
+<body>
+
+    <header>
+        
+        <nav>
+            <img src="img/pngwing.com (2).png" style="width: 120px; " id="Inicio">
+          <ul>
+            <li><a href="#Inicio" "="">Inicio</a></li>
+            <li><a href="#Historia">Historia</a></li>
+            <li><a href="#">Sagaz</a></li>
+            <li><a href="#Personajes">Personajes</a></li>
+            <li><a href="#">Login in/ Login up</a></li>
+            <li><a href="#">Contacto</a></li>
+            
+          </ul>
+        </nav>
+      </header>
+
+      <img src="https://p4.wallpaperbetter.com/wallpaper/576/808/995/fantasy-art-magic-harry-potter-books-wallpaper-preview.jpg" style="border: 1px; width: 1500px; margin-top: 10px; margin-left: 200px;">
+
+      <br><br><br><br><br><br>
+      <h1 style="text-align: center;" id="Historia">HISTORIA</h1>
+      <p style="margin-top: 50px; font-size: 20px; margin-left: 200px; margin-right: 200px;">Harry Potter se queda huérfano cuando tiene unos meses de vida. Por ello, debe irse a vivir con sus malvados tíos Vernon y Petunia, con los que también vive su primo Dudley, malo y envidioso. Así, Harry Potter está triste y se siente solo, pero el día que cumple 11 años, recibe una carta que hará que su vida cambie para siempre. La carta decía que había sido aceptado como alumno del colegio interno Hogwarts de magia y hechicería.
+
+        En Hogwarts (una escuela muy especial) aprenderá encantamientos, trucos fabulosos y tácticas de defensa contra las malas artes. Allí conocerá a buenos amigos y a temibles enemigos.</p>
+        
+        
+          
+    <h1 align="center" id="Personajes" style="margin-top: 110px;">Personajes de Harry Potter</h1>
+    
+    
+    
+    <div class="container__slider">
+
+            <div class="container">
+                <input type="radio" name="slider" id="item-1" checked="">
+                <input type="radio" name="slider" id="item-2">
+                <input type="radio" name="slider" id="item-3">
+                <input type="radio" name="slider" id="item-4">
+                <input type="radio" name="slider" id="item-5">
+                <input type="radio" name="slider" id="item-6">
+    
+                <div class="cards">
+                    <label class="card" for="item-1" id="selector-1">
+                        <img src="https://ik.imagekit.io/hpapi/harry.jpg">
+                    </label>
+                    <label class="card" for="item-2" id="selector-2">
+                        <img src="https://ik.imagekit.io/hpapi/hermione.jpeg">
+                    </label>
+                    <label class="card" for="item-3" id="selector-3">
+                        <img src="https://ik.imagekit.io/hpapi/ron.jpg">
+                    </label>
+                    <label class="card" for="item-4" id="selector-4">
+                        <img src="https://ik.imagekit.io/hpapi/harry.jpg">
+                    </label>
+                    <label class="card" for="item-5" id="selector-5">
+                        <img src="https://ik.imagekit.io/hpapi/draco.jpg">
+                    </label>
+                    <label class="card" for="item-6" id="selector-6">
+                        <img src="https://ik.imagekit.io/hpapi/mcgonagall.jpg">
+                    </label>
+    
+                </div>
+            </div>
+    
+        </div><table align="center" style="margin-top: 110px;">
+        <caption>Personajes <hr></caption>
+        
+
+        
+        
+        <tbody><tr>
+            <td align="center">NAME</td>
+        
+            <td align="center">SPECIES</td>
+
+            <td align="center">GENDER</td>
+
+            <td align="center">HOUSE</td>
+        
+            <td align="center">IMAGE</td>
+        
+            <td align="center">DATE OF BIRTH</td>
+        </tr>
+        <tr>
+            <td align="center">Harry Potter</td>
+        
+            <td align="center">human</td>
+
+            <td align="center">male</td>
+
+            <td align="center">Gryffindor</td>
+        
+            <td align="center"><img src="https://ik.imagekit.io/hpapi/harry.jpg" alt="" width="200px" height="auto"></td>
+        
+            <td align="center">31-07-1980</td>
+        </tr>
+        <tr>
+            <td>Hermione Granger</td>
+        
+            <td>human</td>
+
+            <td>female</td>
+
+            <td>Gryffindor</td>
+        
+            <td><img src="https://ik.imagekit.io/hpapi/hermione.jpeg" alt="" width="200px" height="auto"></td>
+        
+            <td>19-09-1979</td>
+        </tr>
+        <tr>
+            <td>Ron Weasley</td>
+        
+            <td>human</td>
+
+            <td>male</td>
+
+            <td>Gryffindor</td>
+        
+            <td><img src="https://ik.imagekit.io/hpapi/ron.jpg" alt="" width="200px" height="auto" <="" td="">
+        
+            </td><td>01-03-1980</td>
+        </tr>
+        <tr>
+            <td>Harry Potter</td>
+        
+            <td>human</td>
+
+            <td>male</td>
+
+            <td>Gryffindor</td>
+        
+            <td><img src="https://ik.imagekit.io/hpapi/harry.jpg" alt="" width="200px" height="auto"></td>
+        
+            <td>31-07-1980</td>
+        </tr>
+        <tr>
+            <td>Draco Malfoy</td>
+        
+            <td>human</td>
+
+            <td>male</td>
+
+            <td>Slytherin</td>
+        
+            <td><img src="https://ik.imagekit.io/hpapi/draco.jpg" alt="" width="200px" height="auto"></td>
+        
+            <td>05-06-1980</td>
+        </tr>
+        <tr>
+            <td>Minerva McGonagall</td>
+        
+            <td>human</td>
+
+            <td>female</td>
+
+            <td>Slytherin</td>
+        
+            <td><img src="https://ik.imagekit.io/hpapi/mcgonagall.jpg" alt="" width="200px" height="auto"></td>
+        
+            <td>004-10-1925</td>
+        </tr>
+        
+    </tbody></table>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
